@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Inter;
+  src: url(../public/font/Inter/inter.ttf);
+}
+
+@font-face {
+  font-family: Barlow;
+  src: url(../public/font/Barlow/Barlow-Bold.ttf);
+}
+
+* .inter {
+  margin: 0;
+  padding: 0;
+  font-family: Inter;
+  scroll-behavior: smooth !important;
+}
+* .barlow {
+  margin: 0;
+  padding: 0;
+  font-family: Barlow;
+  scroll-behavior: smooth !important;
+}
