@@ -122,7 +122,7 @@ export const DataMakanan = [
     variant: [
       {
         variantname: 'Normal',
-        price: '4k / pcs',
+        price: '5k / pcs',
       },
       {
         variantname: 'Bumbu Teriyaki',
