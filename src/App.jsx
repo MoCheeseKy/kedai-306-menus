@@ -15,7 +15,7 @@ function App() {
             <span className='text-[#f65052]'> 3</span>
             <span>0</span>
             <span className='text-[#607adb]'>6 </span>
-            Menus
+            Menu{"'"}s
           </div>
           <main className='mt-6'>
             <div className='my-6 flex gap-4 items-center'>
